@@ -2,3 +2,8 @@
 {
     width: 75px ; 
 }
+a[role="button"]
+{
+    color:gray ; 
+    font-size: 1.20 ; 
+}
